@@ -1,6 +1,6 @@
 cask "figma2psd-app" do
-  version "0.2.0"
-  sha256 "3462564b1a2f63912a68ce07588a92643d112eb9e16d7c743a987da0146d6125"
+  version "0.2.1"
+  sha256 "8db195955b2a59fb07c70e5e5357c2770b846d9acea9734cda9dce1c904e4ba2"
 
   url "https://github.com/laurentWMU/homebrew-figma2psd/releases/download/v#{version}/figma2psd-app-#{version}.zip"
   name "figma2psd"
