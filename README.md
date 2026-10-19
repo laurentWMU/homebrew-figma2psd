@@ -6,6 +6,7 @@ Intel.
 
 ```
 brew tap laurentwmu/figma2psd
+brew trust --formula laurentwmu/figma2psd/figma2psd   # Homebrew 7 et plus
 brew install figma2psd
 figma2psd auth set-token
 figma2psd https://www.figma.com/design/<fileKey>/<nom> -o ~/Desktop
