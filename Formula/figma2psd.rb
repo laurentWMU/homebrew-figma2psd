@@ -1,8 +1,8 @@
 class Figma2psd < Formula
   desc "Convert a Figma file into a layered Photoshop PSD"
   homepage "https://github.com/laurentWMU/homebrew-figma2psd"
-  url "https://github.com/laurentWMU/homebrew-figma2psd/releases/download/v0.2.1/figma2psd-0.2.1-macos.tar.gz"
-  sha256 "44eee24cf55efe8a2203d412a228964ffce83459db6a9c83c71c9253a47d5dc2"
+  url "https://github.com/laurentWMU/homebrew-figma2psd/releases/download/v0.3.0/figma2psd-0.3.0-macos.tar.gz"
+  sha256 "9314e783918fb5ce0180e2f0564f83a2a262b630c35deaf94403933f500decd7"
   license :cannot_represent
 
   depends_on :macos
